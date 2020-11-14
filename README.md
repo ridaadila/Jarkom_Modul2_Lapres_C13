@@ -1,16 +1,16 @@
 # Jarkom_Modul2_Lapres_C13
 
-#LAPRES MODUL 2 JARKOM
+# LAPRES MODUL 2 JARKOM
 
-###KELOMPOK C13:
-####1) Rida Adila 051111840000002
-####2) Bayu Surya B. 05111840000114
+### KELOMPOK C13:
+#### 1) Rida Adila 051111840000002
+#### 2) Bayu Surya B. 05111840000114
 
-######Mohon maaf bila dalam lapres kami masih banyak kekurangan penjelasan, karena baru sadar kalau deadlinenya jam 00.00 15 November 2020
+###### Mohon maaf bila dalam lapres kami masih banyak kekurangan penjelasan, karena baru sadar kalau deadlinenya jam 00.00 15 November 2020
 
 ********
 
-#####SOAL 1 : Membuat sebuah website utama dengan alamat http://semeruc13.pw
+##### SOAL 1 : Membuat sebuah website utama dengan alamat http://semeruc13.pw
 
 - Membuat file topologi.sh terlebih dahulu, syntaxnya adalah sbb :
 ![1 1](https://user-images.githubusercontent.com/71973415/99148992-cb838280-26bd-11eb-8f15-eba83f63bf22.PNG)
@@ -46,7 +46,7 @@ export ftp_proxy=”http://[username-vpn]:[password]@proxy.its.ac.id:8080”
 
 ********
 
-#####SOAL 2 : Membuat alias dengan alamat http://www.semeruc13.pw
+##### SOAL 2 : Membuat alias dengan alamat http://www.semeruc13.pw
 
 - Hasil nomor 2 ketika diketikkan pada client gresik, mengarah ke IP probolinggo :
 
@@ -54,7 +54,7 @@ export ftp_proxy=”http://[username-vpn]:[password]@proxy.its.ac.id:8080”
 
 *******
 
-#####SOAL 3 : subdomain http://penanjakan.semeruc13.pw yang diatur DNS-nya pada MALANG dan mengarah ke IP Server PROBOLINGGO
+##### SOAL 3 : subdomain http://penanjakan.semeruc13.pw yang diatur DNS-nya pada MALANG dan mengarah ke IP Server PROBOLINGGO
 
 - Hasil nomor 3 :
 
@@ -62,20 +62,20 @@ export ftp_proxy=”http://[username-vpn]:[password]@proxy.its.ac.id:8080”
 
 **********
 
-#####SOAL 6 : subdomain dengan alamat http://gunung.semeruc13.pw yang didelegasikan pada server MOJOKERTO dan mengarah ke IP Server PROBOLINGGO .
+##### SOAL 6 : subdomain dengan alamat http://gunung.semeruc13.pw yang didelegasikan pada server MOJOKERTO dan mengarah ke IP Server PROBOLINGGO .
 
 - Hasil nomor 6 :
 
 ![6 1](https://user-images.githubusercontent.com/71973415/99150823-c2001780-26c9-11eb-8138-1f3e66e4ce3e.PNG)
 ********
-#####SOAL 7 : subdomain dengan nama http://naik.gunung.semeruc13.pw , domain ini diarahkan ke IP Server PROBOLINGGO
+##### SOAL 7 : subdomain dengan nama http://naik.gunung.semeruc13.pw , domain ini diarahkan ke IP Server PROBOLINGGO
 
 - Hasil nomor 7 :
 ![7 1](https://user-images.githubusercontent.com/71973415/99150877-055a8600-26ca-11eb-8fda-19fedad90e7e.PNG)
 
 ******
 
-#####SOAL 8 : Domain http://semeruc13.pw memiliki DocumentRoot pada /var/www/semeruc13.pw
+##### SOAL 8 : Domain http://semeruc13.pw memiliki DocumentRoot pada /var/www/semeruc13.pw
 
 - Settingan nomor 8 :
 
@@ -88,7 +88,7 @@ export ftp_proxy=”http://[username-vpn]:[password]@proxy.its.ac.id:8080”
 
 *********
 
-#####SOAL 9 : Awalnya web dapat diakses menggunakan alamat http://semeruc13.pw/index.php/home . Karena dirasa alamat urlnya kurang bagus, maka diaktifkan mod rewrite agar urlnya menjadi http://semeruc13.pw/home
+##### SOAL 9 : Awalnya web dapat diakses menggunakan alamat http://semeruc13.pw/index.php/home . Karena dirasa alamat urlnya kurang bagus, maka diaktifkan mod rewrite agar urlnya menjadi http://semeruc13.pw/home
 
 - Membuat file .htaccess pada /var/www/semeruc13.pw
 
@@ -100,7 +100,7 @@ export ftp_proxy=”http://[username-vpn]:[password]@proxy.its.ac.id:8080”
 
 ******
 
-#####SOAL 10 :Web http://penanjakan.semeruc13.pw akan digunakan untuk menyimpan assets file yang memiliki DocumentRoot pada /var/www/ penanjakan.semeruyyy.pw dan memiliki struktur folder sebagai berikut: 
+##### SOAL 10 :Web http://penanjakan.semeruc13.pw akan digunakan untuk menyimpan assets file yang memiliki DocumentRoot pada /var/www/ penanjakan.semeruyyy.pw dan memiliki struktur folder sebagai berikut: 
 /var/www/ penanjakan.semeruyyy.pw
 /public/javascripts
 /public/css
@@ -116,7 +116,7 @@ export ftp_proxy=”http://[username-vpn]:[password]@proxy.its.ac.id:8080”
 
 *******
 
-#####SOAL 11 : Pada folder /public dibolehkan directory listing namun untuk folder yang berada di dalamnya tidak dibolehkan
+##### SOAL 11 : Pada folder /public dibolehkan directory listing namun untuk folder yang berada di dalamnya tidak dibolehkan
 
 - Settingan : 
 
@@ -127,7 +127,7 @@ export ftp_proxy=”http://[username-vpn]:[password]@proxy.its.ac.id:8080”
 ![11 1](https://user-images.githubusercontent.com/71973415/99151207-160bfb80-26cc-11eb-91e3-655cdde591bf.PNG)
 
 *****
-#####SOAL 12 : Untuk mengatasi HTTP Error code 404, disediakan file 404.html pada folder /errors untuk mengganti error default 404 dari Apache
+##### SOAL 12 : Untuk mengatasi HTTP Error code 404, disediakan file 404.html pada folder /errors untuk mengganti error default 404 dari Apache
 
 - Settingan : 
 
@@ -139,7 +139,7 @@ export ftp_proxy=”http://[username-vpn]:[password]@proxy.its.ac.id:8080”
 
 *******
 
-#####SOAL 13 : Untuk mengakses file assets javascript awalnya harus menggunakan url http://penanjakan.semeruc13.pw/public/javascripts . Karena terlalu panjang maka dibuatkan konfigurasi virtual host agar ketika mengakses file assets menjadi http://penanjakan.semeruc13.pw/js .
+##### SOAL 13 : Untuk mengakses file assets javascript awalnya harus menggunakan url http://penanjakan.semeruc13.pw/public/javascripts . Karena terlalu panjang maka dibuatkan konfigurasi virtual host agar ketika mengakses file assets menjadi http://penanjakan.semeruc13.pw/js .
 
 - Settingan :
 
@@ -150,7 +150,7 @@ Hasil (Forbidden karena tidak boleh directory listing) :
 ![13 2](https://user-images.githubusercontent.com/71973415/99151345-1bb61100-26cd-11eb-87e0-2fd24ff9912e.PNG)
 
 *******
-#####SOAL 14 : web http://naik.gunung.semeruc13.pw sudah bisa diakses hanya dengan menggunakan port 8888. DocumentRoot web berada pada /var/www/naik.gunung.semeruc13.pw .
+##### SOAL 14 : web http://naik.gunung.semeruc13.pw sudah bisa diakses hanya dengan menggunakan port 8888. DocumentRoot web berada pada /var/www/naik.gunung.semeruc13.pw .
 
 - Settingan :
 
@@ -160,7 +160,7 @@ Hasil (Forbidden karena tidak boleh directory listing) :
 
 ********
 
-#####SOAL 15 : Dikarenakan web http:// naik.gunung.semeruc13.pw bersifat private, dibuatkan autentikasi username dan password
+##### SOAL 15 : Dikarenakan web http:// naik.gunung.semeruc13.pw bersifat private, dibuatkan autentikasi username dan password
 
 - Settingan :
 
@@ -174,7 +174,7 @@ Hasil (Forbidden karena tidak boleh directory listing) :
 ![15 3](https://user-images.githubusercontent.com/71973415/99151513-58363c80-26ce-11eb-9a2b-ba77ad238ced.PNG)
 
 ********
-#####SOAL 16 : Setiap mengunjungi IP Probolinggo akan dialihkan otomatis ke http://semeruc13.pw
+##### SOAL 16 : Setiap mengunjungi IP Probolinggo akan dialihkan otomatis ke http://semeruc13.pw
 
 - Settingan :
 
