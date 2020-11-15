@@ -183,3 +183,14 @@ Hasil (Forbidden karena tidak boleh directory listing) :
 - Hasil :
 
 ![16 2](https://user-images.githubusercontent.com/71973415/99151574-df83b000-26ce-11eb-84f3-477b53f597e6.PNG)
+
+******
+##### SOAL 17 : Karena pengunjung pada /var/www/ penanjakan.semeruyyy.pw/public/images sangat banyak maka semua request gambar yang memiliki substring “semeru” akan diarahkan menuju semeru.jpg.
+
+- Settingan :
+![17 1](https://user-images.githubusercontent.com/71973415/99162320-096cbf00-272f-11eb-9337-a5a95558b074.PNG)
+![17 2](https://user-images.githubusercontent.com/71973415/99162325-0c67af80-272f-11eb-9cb4-79bf76deaf3b.PNG)
+
+- Hasil :
+
+![17 3](https://user-images.githubusercontent.com/71973415/99162349-77b18180-272f-11eb-8862-ff977b22e9b8.PNG)
