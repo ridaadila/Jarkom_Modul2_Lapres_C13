@@ -188,6 +188,7 @@ Hasil (Forbidden karena tidak boleh directory listing) :
 ##### SOAL 17 : Karena pengunjung pada /var/www/ penanjakan.semeruyyy.pw/public/images sangat banyak maka semua request gambar yang memiliki substring “semeru” akan diarahkan menuju semeru.jpg.
 
 - Settingan :
+#####
 ![17 1](https://user-images.githubusercontent.com/71973415/99162320-096cbf00-272f-11eb-9337-a5a95558b074.PNG)
 ![17 2](https://user-images.githubusercontent.com/71973415/99162325-0c67af80-272f-11eb-9cb4-79bf76deaf3b.PNG)
 
